@@ -1,5 +1,5 @@
 <h1 align="center">
-👨‍💻 DataEngineerJourney - Minha Jornada na área de Dados </h1>
+👨‍💻 MyDataJourney - Minha Jornada na área de Dados </h1>
 <p align="center">
   <a href="https://github.com/yanhrobim">
   <img src="https://img.shields.io/badge/GitHub-Yan Robim-181717?logo=github"/>
