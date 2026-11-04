@@ -83,7 +83,7 @@ Direcionado aos fundamentos essenciais da ferramenta para atuação como Analist
 Direcionado aos fundamentos essenciais da ferramenta para atuação como Analista de Dados, priorizando fórmulas, tabelas dinâmicas e visualização de dados.
 
 - **Curso Base: Excel Básico Office 365 (Hashtag Treinamentos)**
-- [ ] Fundamentos, Atalhos e Peenchimento Relâmpago *(Aula 1)*
+- [ ] Fundamentos, Atalhos e Preenchimento Relâmpago *(Aula 1)*
 - [ ] Formatação e Formatação Condicional *(Aula 2)*
 - [ ] Validação de Dados e Tabelas *(classificar e filtrar)* *(Aula 3)*
 - [ ] Tabelas Dinâmicas e Segmentação de Dados *(Aula 4)*
