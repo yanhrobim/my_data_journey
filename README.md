@@ -100,7 +100,6 @@ Direcionado aos fundamentos essenciais da ferramenta para atuação como Analist
 - [ ] Agregação por média condicional *(MÉDIASES)*
 - [ ] Power Query no Excel
 - [ ] Dashboard *(tabela dinâmica + segmentação + gráficos)*
-- [ ] *(Opcional)* Modelo de dados e Power Pivot
 
 ---
 
