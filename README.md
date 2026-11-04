@@ -1,13 +1,13 @@
 <h1 align="center">
-👨‍💻 DataEngineerJourney - Minha Jornada em Engenharia de Dados </h1>
+👨‍💻 DataEngineerJourney - Minha Jornada na área de Dados </h1>
 <p align="center">
   <a href="https://github.com/yanhrobim">
   <img src="https://img.shields.io/badge/GitHub-Yan Robim-181717?logo=github"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Em%20Andamento [Dia 101 (Power BI)]-yellow" />
-  <img src="https://img.shields.io/badge/Objetivo Principal-Data%20Engineer%20Junior-black" />
+  <img src="https://img.shields.io/badge/Objetivo Principal-First%20Opportunity%20In%20Data-black" />
 
-Bem-vindo(a)! Este repositório mostra minha jornada de estudos e projetos focados em **Engenharia de Dados**. O espaço documenta minha evolução na área, com o objetivo de registrar o processo de tentativas, erros, aprendizados e soluções ao longo do caminho.
+Bem-vindo(a)! Este repositório mostra minha jornada de estudos e projetos focados em **Dados**. O espaço documenta minha evolução na área, com o objetivo de registrar o processo de tentativas, erros, aprendizados e soluções ao longo do caminho.
 
 ---
 
@@ -25,8 +25,8 @@ Bem-vindo(a)! Este repositório mostra minha jornada de estudos e projetos focad
 
 ### 📅 Jornada de Aprendizado
 - **[SQL & Banco de Dados](#-️-sql--banco-de-dados)**
-- **[Python (Fundamentos e Engenharia de Dados)](#--python-fundamentos-e-engenharia-de-dados)**
-- **[Power BI (Próximo Passo)](#--power-bi-fundamentos-e-modelagem)**
+- **[Python (Fundamentos e Dados)](#--python-fundamentos-e-engenharia-de-dados)**
+- **[Power BI](#--power-bi-fundamentos-e-modelagem)**
 
 ### | 🛢️ SQL & Banco de Dados
 
@@ -73,10 +73,8 @@ Direcionado aos fundamentos essenciais da ferramenta para atuação como Analist
 - [x] Limpeza e Manipulação de Dados com Power BI
 - [x] Power Query M Language
 - [x] Power BI e Bancos de Dados
-- [ ] SQL Analytics (aplicado ao Power BI)
-- [ ] Estudo aplicado de domínio (escolha entre Comercial/Vendas ou Financeiro)
-
-- **Projeto Prático:** *(planejado após fundamentos)*
+- [x] SQL Analytics (aplicado ao Power BI)
+- [x] Estudo aplicado de domínio (escolha entre Comercial/Vendas ou Financeiro)
 
 ---
 
