@@ -14,11 +14,30 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 #### **Dia X (DD/MM/AA)**
 
 **🖋️ Tópicos da Aula:**
-- Conceitos introdutórios
+- Conceitos Introdutórios
 - Atalhos
-- Preenchimento relâmpago
+- Preenchimento Relâmpago
 
 **🧠 Aprendizados da aula:**
+- **Apresentação da interface da ferramenta e conceitos introdutórios:**
+    - O que é uma pasta de trabalho.
+    - O que é uma planilha dentro de uma pasta de trabalho.
+    - O que é uma coluna, linha, e célula (encontro de linhas com colunas).
+    - Guias e suas ferramentas.
+- Importação de arquivo Text/CSV dentro do Excel.
+- Descoberta de **atalhos** dentro da ferramenta para se locomover melhor entre os dados e ganhar tempo.
+    - Exemplos Básicos:
+        - CTRL + Page Up e CTRL + Page Down para se locomover sem utilizar o mouse entre planilhas.
+        - CTRL + ⬆️, CTRL + ⬇️,  CTRL + ➡️, CTRL + ⬅️ para se locomover mais rápido entre os dados da planilha.
+- Com o preenchimento relâmpago conseguimos fazer com que o Excel replique uma lógica que aplicamos entre os dados. 
+- **Preenchimento Relâmpago (Flash Fill):**
+  - **O que é:** um recurso em que eu mostro ao Excel *um exemplo* do resultado que quero, e ele descobre o padrão e preenche o resto da coluna sozinho, sem fórmula.
+  - **Atalho:** `CTRL + E` (aplica o preenchimento relâmpago na hora, depois de eu digitar o exemplo na primeira célula).
+    - ⚠️ **Aviso:** esse atalho pode variar conforme a versão do Excel ou o sistema operacional (no Mac, por exemplo, costuma ser `CMD + E`).
+  - **Como usar:** digito o resultado esperado na primeira célula ao lado dos dados, começo a digitar o segundo, e o Excel sugere o restante. Se ele não sugerir sozinho, uso o atalho.
+  - **Exemplo:** coluna com "João Silva". Na célula ao lado escrevo "João", e o Excel preenche só o primeiro nome de todas as outras linhas.
+  - **Para que serve:** separar, juntar ou reformatar textos (nomes, e-mails, telefones) de forma rápida.
+  - **Cuidado:** ele *adivinha* o padrão, então pode errar se os dados forem irregulares. Sempre conferir o resultado.
 
 ---
 
@@ -28,7 +47,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 **🖋️ Tópicos da Aula:**
 - Formatação
-- Formatação condicional
+- Formatação Condicional
 
 **🧠 Aprendizados da aula:**
 
@@ -40,8 +59,8 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 #### **Dia X (DD/MM/AA)**
 
 **🖋️ Tópicos da Aula:**
-- Validação de dados
-- Tabelas (classificar e filtrar)
+- Validação de Dados
+- Tabelas (Classificar e Filtrar)
 
 **🧠 Aprendizados da aula:**
 
@@ -52,8 +71,8 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 #### **Dia X (DD/MM/AA)**
 
 **🖋️ Tópicos da Aula:**
-- Tabela dinâmica
-- Segmentação de dados
+- Tabela Dinâmica
+- Segmentação de Dados
 
 **🧠 Aprendizados da aula:**
 
@@ -76,7 +95,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 #### **Dia X (DD/MM/AA)**
 
 **🖋️ Tópicos da Aula:**
-- Funções básicas (Operadores, SOMA, MÉDIA, MULT, MAIOR/MENOR, CONT.NÚM/CONT.VALORES)
+- Funções Básicas (Operadores, SOMA, MÉDIA, MULT, MAIOR/MENOR, CONT.NÚM/CONT.VALORES)
 
 **🧠 Aprendizados da aula:**
 
