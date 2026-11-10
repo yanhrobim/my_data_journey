@@ -9,9 +9,9 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ## 📝 Registro Por Aula
 
-### | 📚 Aula 01
+### | 📚 Aula 1
 
-#### **Dia X (05/11/26)**
+#### **Dia 1 (05/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Conceitos Introdutórios
@@ -41,9 +41,9 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ---
 
-### | 📚 Aula 02
+### | 📚 Aula 2
 
-#### **Dia X (10/11/26)**
+#### **Dia 2 (10/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Formatação
@@ -61,12 +61,12 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 - **Formatação Condicional:** Aplica formatações visuais em células através de uma regra.
 	- **Exemplo:** Se na Coluna `Nivel_Satisfacao_Trabalho` a nota for 1, preencha com emoji vermelho, se for de 2 emoji amarelo, e se for 3 e 4 com emoji verde. (Com base em: Ruim, Médio, Bom)
   - ![formatação_condicional](2.%20Formatação%20e%20Formatação%20Condicional/Images/exemplo_formatação_condicional.png)
-	- **OBS:** Caso o valor da célula seja modificado a aparência também é automaticamente modificada.
+  - **OBS:** Caso o valor da célula seja modificado a aparência também é automaticamente modificada.
 
 
 ---
 
-### | 📚 Aula 03
+### | 📚 Aula 3
 
 #### **Dia X (DD/MM/AA)**
 
@@ -78,7 +78,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ---
 
-### | 📚 Aula 04
+### | 📚 Aula 4
 
 #### **Dia X (DD/MM/AA)**
 
@@ -91,7 +91,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ---
 
-### | 📚 Aula 05
+### | 📚 Aula 5
 
 #### **Dia X (DD/MM/AA)**
 
@@ -102,7 +102,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ---
 
-### | 📚 Aula 06
+### | 📚 Aula 6
 
 #### **Dia X (DD/MM/AA)**
 
@@ -113,7 +113,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ---
 
-### | 📚 Aula 07
+### | 📚 Aula 7
 
 #### **Dia X (DD/MM/AA)**
 
@@ -125,7 +125,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ---
 
-### | 📚 Aula 08
+### | 📚 Aula 8
 
 #### **Dia X (DD/MM/AA)**
 
