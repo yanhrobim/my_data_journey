@@ -52,12 +52,15 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 **🧠 Aprendizados da aula:**
 - **Formatação:** Formatação é a forma que você mostra as informações que estão no Excel.
 	- **Formatação de Valores:** Mudar como o valor da célula será exibido, como números, texto, datas. (Não muda o valor real, e sim como é apresentado)
-		- Exemplo: Formatar um valor numérico para um valor em moeda.
+		- **Exemplo:** Formatar um valor numérico para um valor em moeda.
+      - ![formatação_valores](2.%20Formatação%20e%20Formatação%20Condicional/Images/exemplo_formatação_valores.png)
 	- **Formatação Visual:** Mudar a aparência da apresentação sem afetar os valores, como cores, fontes, bordas.
-		- Exemplo: Adicionar Bordas e Cores.
-	-**Atalho:** `CTRL + 1` para abrir um menu avançado sobre formatação. (Incluí tanto a formatação de valores quanto a formatação visual)
+		- **Exemplo:** Adicionar Bordas e Cores.
+      - ![formatação_visual](2.%20Formatação%20e%20Formatação%20Condicional/Images/exemplo_formatação_visual.png)
+	- **Atalho:** `CTRL + 1` para abrir um menu avançado sobre formatação. (Incluí tanto a formatação de valores quanto a formatação visual)
 - **Formatação Condicional:** Aplica formatações visuais em células através de uma regra.
-	- Exemplo: Se na Coluna `Nivel_Satisfacao_Trabalho` a nota for 1, preencha com emoji vermelho, se for de 2 emoji amarelo, e se for 3 e 4 com emoji verde. (Com base em: Ruim, Médio, Bom)
+	- **Exemplo:** Se na Coluna `Nivel_Satisfacao_Trabalho` a nota for 1, preencha com emoji vermelho, se for de 2 emoji amarelo, e se for 3 e 4 com emoji verde. (Com base em: Ruim, Médio, Bom)
+  - ![formatação_condicional](2.%20Formatação%20e%20Formatação%20Condicional/Images/exemplo_formatação_condicional.png)
 	- **OBS:** Caso o valor da célula seja modificado a aparência também é automaticamente modificada.
 
 
