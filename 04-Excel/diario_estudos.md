@@ -11,7 +11,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ### | 📚 Aula 01
 
-#### **Dia X (DD/MM/AA)**
+#### **Dia X (05/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Conceitos Introdutórios
@@ -43,13 +43,22 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ### | 📚 Aula 02
 
-#### **Dia X (DD/MM/AA)**
+#### **Dia X (10/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Formatação
 - Formatação Condicional
 
 **🧠 Aprendizados da aula:**
+- **Formatação:** Formatação é a forma que você mostra as informações que estão no Excel.
+	- **Formatação de Valores:** Mudar como o valor da célula será exibido, como números, texto, datas. (Não muda o valor real, e sim como é apresentado)
+		- Exemplo: Formatar um valor numérico para um valor em moeda.
+	- **Formatação Visual:** Mudar a aparência da apresentação sem afetar os valores, como cores, fontes, bordas.
+		- Exemplo: Adicionar Bordas e Cores.
+	-**Atalho:** `CTRL + 1` para abrir um menu avançado sobre formatação. (Incluí tanto a formatação de valores quanto a formatação visual)
+- **Formatação Condicional:** Aplica formatações visuais em células através de uma regra.
+	- Exemplo: Se na Coluna `Nivel_Satisfacao_Trabalho` a nota for 1, preencha com emoji vermelho, se for de 2 emoji amarelo, e se for 3 e 4 com emoji verde. (Com base em: Ruim, Médio, Bom)
+	- **OBS:** Caso o valor da célula seja modificado a aparência também é automaticamente modificada.
 
 
 ---
