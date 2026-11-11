@@ -59,7 +59,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
       - ![formatação_visual](2.%20Formatação%20e%20Formatação%20Condicional/Images/exemplo_formatação_visual.png)
 	- **Atalho:** `CTRL + 1` para abrir um menu avançado sobre formatação. (Incluí tanto a formatação de valores quanto a formatação visual)
 - **Formatação Condicional:** Aplica formatações visuais em células através de uma regra.
-	- **Exemplo:** Se na Coluna `Nivel_Satisfacao_Trabalho` a nota for 1, preencha com emoji vermelho, se for de 2 emoji amarelo, e se for 3 e 4 com emoji verde. (Com base em: Ruim, Médio, Bom)
+	- **Exemplo:** Se na coluna `Nivel_Satisfacao_Trabalho` a nota for 1, preencha com emoji vermelho, se for de 2 emoji amarelo, e se for 3 e 4 com emoji verde. (Com base em: Ruim, Médio, Bom)
   - ![formatação_condicional](2.%20Formatação%20e%20Formatação%20Condicional/Images/exemplo_formatação_condicional.png)
   - **OBS:** Caso o valor da célula seja modificado a aparência também é automaticamente modificada.
 
@@ -68,13 +68,30 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ### | 📚 Aula 3
 
-#### **Dia X (DD/MM/AA)**
+#### **Dia 3 (11/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Validação de Dados
 - Tabelas (Classificar e Filtrar)
 
 **🧠 Aprendizados da aula:**
+
+- **Validação de Dados no Excel:** Impedir com regras que valores indevidos não entrem na planilha.
+	- Existe variedades de regras de validação de dados dentro do Excel. Estas foram as que utilizei e irei cita-las aqui como exemplo:
+		- **É maior que (Neste caso é 0):**
+		- ![regra_maior_que](./3.%20Validação%20de%20Dados%20e%20Tabelas/Images/regra_numero_maior_que.png)
+		- Com o objetivo de somente ter valores numéricos em ID.
+		- **Lista de Valores Aceitos:**
+		- ![regra_valores_aceitos](./3.%20Validação%20de%20Dados%20e%20Tabelas/Images/regra_valores_aceitos.png)
+		- Com o objetivo de na coluna não conter Estados Civis incorretos. (No momento de análises, se tiver, deixa os dados não confiáveis/sujos.)
+		- **Números Entre Valor X até Valor Y:**
+		- ![regra_numeros_entre](./3.%20Validação%20de%20Dados%20e%20Tabelas/Images/regra_numeros_entre.png)
+		- Com o objetivo de fazer com que na coluna `Idade` esteja somente pessoas de 18 a 60 anos.
+	- ***Para a utilização da ferramenta de validação de dados no Excel, é preciso entrar na Guia `Dados`.***
+- A principal importância de utilizar **Tabelas** no Excel é que ela facilita a replicação de regras de validação, fórmulas, funções em novas linhas de forma automática.
+	- Sem **Tabela**, os dados ficam soltos na planilha. Quando adiciono uma nova linha, ela nasce “individual”: as outras colunas existem, mas vazias, e a nova linha não herda as regras de validação, as fórmulas nem as funções das linhas de cima.
+	- Com **Tabela**, a nova linha já nasce seguindo tudo isso, sem eu precisar copiar ou arrastar nada.
+
 
 ---
 
