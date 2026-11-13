@@ -4,7 +4,7 @@
   <a href="https://github.com/yanhrobim">
   <img src="https://img.shields.io/badge/GitHub-Yan Robim-181717?logo=github"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Em%20Andamento [Dia 106 (Excel)]-yellow" />
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento [Dia 107 (Excel)]-yellow" />
   <img src="https://img.shields.io/badge/Objetivo Principal-First%20Opportunity%20In%20Data-black" />
 
 Bem-vindo(a)! Este repositório mostra minha jornada de estudos e projetos focados em **Dados**. O espaço documenta minha evolução na área, com o objetivo de registrar o processo de tentativas, erros, aprendizados e soluções ao longo do caminho.
