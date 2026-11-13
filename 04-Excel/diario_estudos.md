@@ -105,7 +105,13 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 **🧠 Aprendizados da aula:**
 - **Tabelas Dinâmicas:** Permite fazer e criar análises de forma claras e objetivas. Em muitos casos utilizamos **Fórmulas** e **Funções** para criar e fazer análises mais complexas, porém, se você quer uma análise mais rápida e pontual, uma melhor escolha é a **Tabela Dinâmica**.
-- - **Qual a diferença de Tabela x Tabela Dinâmica?**
+-  **Como a Tabela Dinâmica funciona por dentro:**
+	- **Criar:** Inserir → Tabela Dinâmica, escolhendo a origem. Depois é arrastar os campos nas 4 áreas: Filtros, Colunas, Linhas e Valores.
+	- **Cache:** quando a Dinâmica nasce, o Excel tira uma cópia dos dados. É por isso que ela não vê linha nova sozinha, e por isso o Atualizar é manual.
+	- **Origem:** escolher a **Tabela** (`Ctrl + T`), nunca o intervalo fixo (`A1:D500`). Intervalo fixo ignora a linha nova em silêncio: o resumo fica errado sem avisar.
+	- **Célula calculada:** não dá para digitar dentro dela. Ali não tem dado, tem conta.
+	- **Datas:** botão direito sobre a data → Agrupar, para ver por mês, trimestre ou ano.
+- **Qual a diferença de Tabela x Tabela Dinâmica?**
 	- A diferença é que a **Tabela** armazena dados, e a **Tabela Dinâmica** entrega dados calculados, entrega respostas para perguntas de negócio, semelhante a uma Query de KPI em SQL.
 		- Nos nossos dados de RH, por exemplo ver qual a nota que mais aparece na `Nivel_Satisfacao_Trabalho` por `Funcao` (Cargo). (Ajudaria entender por que certos cargos estão mais descontentes que outros.)
 	- OBS: Quando a Tabela que alimenta a Tabela Dinâmica é atualizada por dados, o filtro prevalece SE estes novos dados seguem e contém dados que alimentam o filtro.
