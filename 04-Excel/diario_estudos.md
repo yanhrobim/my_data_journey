@@ -105,6 +105,8 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 **🧠 Aprendizados da aula:**
 - **Tabelas Dinâmicas:** Permite fazer e criar análises de forma claras e objetivas. Em muitos casos utilizamos **Fórmulas** e **Funções** para criar e fazer análises mais complexas, porém, se você quer uma análise mais rápida e pontual, uma melhor escolha é a **Tabela Dinâmica**.
+- - **Qual a diferença de Tabela x Tabela Dinâmica?**
+	- A diferença é que a **Tabela** armazena dados, e a **Tabela Dinâmica** entrega dados calculados, entrega respostas para perguntas de negócio, semelhante a uma Query de KPI em SQL.
 
 
 ---
