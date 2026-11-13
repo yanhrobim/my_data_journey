@@ -116,7 +116,8 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 		- Nos nossos dados de RH, por exemplo ver qual a nota que mais aparece na `Nivel_Satisfacao_Trabalho` por `Funcao` (Cargo). (Ajudaria entender por que certos cargos estão mais descontentes que outros.)
 	- OBS: Quando a Tabela que alimenta a Tabela Dinâmica é atualizada por dados, o filtro prevalece SE estes novos dados seguem e contém dados que alimentam o filtro.
 		- **Por exemplo:** Se você antes apontava para Cargos como "Engenheiro de Dados", "Analista de Dados" e "Cientista de Dados" e os dados sofreram uma atualização agora sendo "DE", "DA" e "DS", a Tabela Dinâmica não entrega nada.
-
+- **Segmentação de Dados** é o nome em português do **Slicer**: botões de filtro que ficam visíveis na tela, em vez de escondidos na setinha da coluna.
+- Inserir → Segmentação de Dados com a Dinâmica selecionada. Uma caixinha agora visível na tela, que você pode clicar para filtrar por aquilo que escolheu. (Ex: Por `Funcao`)
 
 ---
 
