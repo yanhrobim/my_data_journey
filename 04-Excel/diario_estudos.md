@@ -107,6 +107,9 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 - **Tabelas Dinâmicas:** Permite fazer e criar análises de forma claras e objetivas. Em muitos casos utilizamos **Fórmulas** e **Funções** para criar e fazer análises mais complexas, porém, se você quer uma análise mais rápida e pontual, uma melhor escolha é a **Tabela Dinâmica**.
 - - **Qual a diferença de Tabela x Tabela Dinâmica?**
 	- A diferença é que a **Tabela** armazena dados, e a **Tabela Dinâmica** entrega dados calculados, entrega respostas para perguntas de negócio, semelhante a uma Query de KPI em SQL.
+		- Nos nossos dados de RH, por exemplo ver qual a nota que mais aparece na `Nivel_Satisfacao_Trabalho` por `Funcao` (Cargo). (Ajudaria entender por que certos cargos estão mais descontentes que outros.)
+	- OBS: Quando a Tabela que alimenta a Tabela Dinâmica é atualizada por dados, o filtro prevalece SE estes novos dados seguem e contém dados que alimentam o filtro.
+		- **Por exemplo:** Se você antes apontava para Cargos como "Engenheiro de Dados", "Analista de Dados" e "Cientista de Dados" e os dados sofreram uma atualização agora sendo "DE", "DA" e "DS", a Tabela Dinâmica não entrega nada.
 
 
 ---
