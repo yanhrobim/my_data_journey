@@ -97,13 +97,14 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ### | 📚 Aula 4
 
-#### **Dia X (DD/MM/AA)**
+#### **Dia 4 (12/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Tabela Dinâmica
 - Segmentação de Dados
 
 **🧠 Aprendizados da aula:**
+- **Tabelas Dinâmicas:** Permite fazer e criar análises de forma claras e objetivas. Em muitos casos utilizamos **Fórmulas** e **Funções** para criar e fazer análises mais complexas, porém, se você quer uma análise mais rápida e pontual, uma melhor escolha é a **Tabela Dinâmica**.
 
 
 ---

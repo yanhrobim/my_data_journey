@@ -86,7 +86,7 @@ Direcionado aos fundamentos essenciais da ferramenta para atuação como Analist
 - [x] Fundamentos, Atalhos e Preenchimento Relâmpago *(Aula 1)*
 - [x] Formatação e Formatação Condicional *(Aula 2)*
 - [x] Validação de Dados e Tabelas *(classificar e filtrar)* *(Aula 3)*
-- [ ] Tabelas Dinâmicas e Segmentação de Dados *(Aula 4)*
+- [x] Tabelas Dinâmicas e Segmentação de Dados *(Aula 4)*
 - [ ] Gráficos *(Aula 5)*
 - [ ] Funções Básicas *(operadores, SOMA, MÉDIA, MULT, MAIOR/MENOR, CONT.NÚM/CONT.VALORES)* *(Aula 6)*
 - [ ] Lógica e Busca *(SE e PROCV)* *(Aula 7)*
