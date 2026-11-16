@@ -105,6 +105,7 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 **🧠 Aprendizados da aula:**
 - **Tabelas Dinâmicas:** Permite fazer e criar análises de forma claras e objetivas. Em muitos casos utilizamos **Fórmulas** e **Funções** para criar e fazer análises mais complexas, porém, se você quer uma análise mais rápida e pontual, uma melhor escolha é a **Tabela Dinâmica**.
+- ![tabela_dinamica](./4.%20Tabelas%20Dinâmicas%20e%20Segmentação%20de%20Dados/Images/tabela_dinamica.png)
 -  **Como a Tabela Dinâmica funciona por dentro:**
 	- **Criar:** Inserir → Tabela Dinâmica, escolhendo a origem. Depois é arrastar os campos nas 4 áreas: Filtros, Colunas, Linhas e Valores.
 	- **Cache:** quando a Dinâmica nasce, o Excel tira uma cópia dos dados. É por isso que ela não vê linha nova sozinha, e por isso o Atualizar é manual.
