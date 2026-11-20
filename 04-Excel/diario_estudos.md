@@ -124,12 +124,17 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ### | 📚 Aula 5
 
-#### **Dia X (DD/MM/AA)**
+#### **Dia 7 (17/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Gráficos
 
 **🧠 Aprendizados da aula:**
+- O real objetivo de utilizar/trabalhar com *Gráficos* é demonstrar dados de forma visual, como no Power BI, entre outras ferramentas de visualização de dados.
+- **Existe Duas Formas Para Criar Gráficos Dentro do Excel:**
+	- **1. Forma Mais Simples:** Nesta forma mais simples, você apenas clicando o Excel cria um gráfico para você. Para isso você precisa ir na *Guia*  : Inserir → Gráficos.
+		- ***Está forma é a mais simples e rápida, porém nem sempre ela pode funcionar.*** No meu exemplo, nos meus dados dos vendedores somente tenho o ID, quando tentei por esse caminho criar um gráfico que representasse de forma visual aqueles que venderam mais quantidades, o Excel não soube diferenciar os IDs do valor de quantidade vendida e assim com este método não soube popular o eixo X com os valores de IDs.
+
 
 ---
 
