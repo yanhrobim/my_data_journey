@@ -135,7 +135,8 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 	- **1. Forma Mais Simples:** Nesta forma mais simples, você apenas clicando o Excel cria um gráfico para você. Para isso você precisa selecionar a sua tabela inteira que contém os dados desejados, na *Guia*: Inserir → Gráficos.
 		- ***Está forma é a mais simples e rápida, porém nem sempre ela pode funcionar.*** No meu exemplo, nos meus dados dos vendedores somente tenho o ID, quando tentei por esse caminho criar um gráfico que representasse de forma visual aqueles que venderam mais quantidades, o Excel não soube diferenciar os IDs do valor de quantidade vendida e assim com este método não soube popular o eixo X com os valores de IDs.
 	- **2. Forma Mais Complexa:** Diferentemente da primeira forma, aqui você primeiro insere o gráfico que você deseja (Através de Inserir → Gráficos) sem ter que selecionar toda a sua tabela e já popular o gráfico com dados. Com o gráfico em branco, você pode clicar com o botão esquerdo e encontrar a opção: *"Selecionar Dados"*, ou clicar com o botão direito no gráfico e uma nova *Guia* (Localizada sendo a penúltima, antes de Formatar) irá ser criada chamada Design do Gráfico, onde lá se encontra *"Selecionar Dados"*. Após clicar na ferramenta, você precisa adicionar os dados no botão *"Adicionar"*, no lado esquerdo, com isso você precisa criar o nome de uma série e os dados que ela irá ter (Por exemplo, se seus dados são de Vendas, coloque o nome da série "Vendas" e clique na coluna ou tabela que contém os dados). Após isso, você irá popular o eixo Y com os valores selecionados, e para modificar o eixo X você precisa clicar em "Editar" na caixinha do lado direito e selecionar os dados que serão o eixo X (Por exemplo, se no eixo X você quer o nome das Regiões você referencia estes dados).
-
+- **Gráfico Que Eu Criei para Praticar:**
+	- ![grafico_aula5](./5.%20Gráficos%20No%20Excel/images/grafico_pratica.png)
 
 
 ---
