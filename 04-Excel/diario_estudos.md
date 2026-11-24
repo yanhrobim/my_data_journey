@@ -143,12 +143,17 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 
 ### | 📚 Aula 6
 
-#### **Dia X (DD/MM/AA)**
+#### **Dia 8 (24/11/26)**
 
 **🖋️ Tópicos da Aula:**
 - Funções Básicas (Operadores, SOMA, MÉDIA, MULT, MAIOR/MENOR, CONT.NÚM/CONT.VALORES)
 
 **🧠 Aprendizados da aula:**
+- Para acessar formúlas no Excel é preciso colocar o caracter: **"="**.
+- **Prática de Algumas Funções Básicas e Resultados Com Os Dados de Logística (Sobre Vendedores):**
+	- **ÚNICO():**
+		- ![unico_funcao](./6.%20Funções%20Básicas/images/funcao_unico_resultado.png)
+		- Dentre os dados de logística, individualizar cada ID de Vendedor, com o objetivo de obter os vendedores de forma individual.
 
 ---
 
