@@ -154,6 +154,15 @@ Com o objetivo de aprender sobre a ferramenta, consolidar conhecimento e aplicá
 	- **ÚNICO():**
 		- ![unico_funcao](./6.%20Funções%20Básicas/images/funcao_unico_resultado.png)
 		- Dentre os dados de logística, individualizar cada ID de Vendedor, com o objetivo de obter os vendedores de forma individual.
+	- **CONT.VALORES():** ou **CONT.VALORES(ÚNICO()):**
+		-  ![cont_valores_funcao](./6.%20Funções%20Básicas/images/funcao_cont_valores_resultado.png)
+		- Contagem de valores (vendedores).
+	- **MÉDIA():**
+		- ![media_funcao](./6.%20Funções%20Básicas/images/funcao_media_funcao.png)
+		- Obter uma média dentre um conjunto de valores númericos passados.
+	- **SOMA():**
+		- ![soma_funcaop](./6.%20Funções%20Básicas/images/funcao_soma_resultado.png)
+		- Fazer uma conta de adição dentre os valores númericos passados.
 
 ---
 
